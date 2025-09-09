@@ -23,9 +23,13 @@ The project includes full **data preprocessing, model training, evaluation, and 
 
 ## 📂 Project Structure
 
-├── credit_score.csv # Dataset (not included in repo for privacy, add your own)
-├── credit_scoring.py # Main Python script
-├── README.md # Project documentation
+- ├── credit_score.csv # Dataset (not included in repo for privacy, add your own) 
+- ├── credit_scoring.py # Main Python script
+- ├── README.md # Project documentation
+
+## Run Output
+python credit_scoring.py
+
 
 ## 📊 Example Output
 
@@ -46,3 +50,12 @@ The dataset was imbalanced, meaning defaulters (class 1) were underrepresented.
 Random Forest with class_weight="balanced" ensures that both classes are considered equally important.
 
 ROC-AUC is prioritized over just accuracy, since in credit risk management, catching defaulters is critical.
+
+## 👨‍💻 Author
+
+👤 Name: Mohd Altamash
+📧 Email: mohdaltamash37986@gmail.com
+
+🌐 LinkedIn: https://www.linkedin.com/in/mohd-altamash-0997592a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+💻 GitHub: https://github.com/altamash8986
