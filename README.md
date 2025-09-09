@@ -1,4 +1,4 @@
-# 🏦 Credit Scoring Model (Random Forest + Balanced Dataset)
+# 🏦 Credit Scoring Model (Random Forest)
 
 This project builds a **credit scoring model** using **Random Forest Classifier** to predict whether a customer will default on credit.  
 It handles **imbalanced datasets** with oversampling, applies **feature scaling**, and evaluates performance using **ROC-AUC** and other classification metrics.  
@@ -27,7 +27,7 @@ The project includes full **data preprocessing, model training, evaluation, and 
 - ├── credit_scoring.py # Main Python script
 - ├── README.md # Project documentation
 
-## Run Output
+## 🚗 Run Output
 python credit_scoring.py
 
 
